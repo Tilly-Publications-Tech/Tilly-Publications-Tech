@@ -1,4 +1,4 @@
-- 👋 The official GitHub account of Tilly Publications. tilly-publications.github.io
+- 👋 The official GitHub account of Tilly Publications. tillypublications.github.io
 - 🌱 I’m currently writing "Disaster of Zrenwell"
 - 💞️ Welcome to collaborate.
 - 🙎‍♂️ Positions avaliable : Artist
